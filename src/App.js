@@ -3,6 +3,8 @@ import './App.css';
 
 function App() {
   const greeting = "Это тестовый проект";
+  const greeting_1 = "Это тестовый проект";
+  const greeting_2 = "Это тестовый проект";
 
   return (
     <div className="App">
